@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 15%;
+    margin-top: 2em;
+}
+
+main {
+    clear: both;
+}
+
+nav ol {
+    list-style-type: none;
+    padding-left: 0em;
+}
+
+nav li {
+    float: left;
+    padding: 0.25em 2em 1.25em 0em;
+}
+
+nav li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 0em;
+}
+
+.page-caption {
+    font-style: italic;
+    margin: 0;
+    padding-top: 0.2em;
+}
+
+ol.publications-list {
+    list-style-type: none;
+    padding-left: 0em;
+}
+
+ol.publications-list li {
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    text-indent:-1.5em;
+}
+
+.video-square {
+    float: left;
+    padding: 0em 1em 1em 0em;
+}
+
+.video-square a:link{
+    text-decoration: none;
+}
+
+.video-caption {
+    display: block;
+    text-align: center;
+}
+
+.note {
+    clear: both;
+    font-style: italic;
+}
+
+.video-embed {
+    padding-top: 1em;
+}
