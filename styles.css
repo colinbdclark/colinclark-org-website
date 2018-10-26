@@ -194,7 +194,10 @@ main, nav {
     margin-left: 5%;
     margin-right: 15%;
     margin-top: 1em;
-    margin-bottom: 0em;
+}
+
+main {
+    margin-bottom: 1.25em;
 }
 
 nav {
