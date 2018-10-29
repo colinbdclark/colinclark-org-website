@@ -287,6 +287,7 @@ ol.publications-list li {
 
 .footer-image {
     width: 100%;
+    padding-top: 1em;
 }
 
 /* Small device overrides */
